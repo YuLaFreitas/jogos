@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4717f6</color>
+    <color name="colorPrimaryDark">#a239ca</color>
+    <color name="colorAccent">#e7dfdd</color>
+    <color name="fundo_tela">#0E0B16</color>
+    <color name="descricao">#B82601</color>
+    <color name="fundo_tela1">#9AA0</color>
+    <color name="a1">#32cd32</color>
+    <color name="a2">#000cff</color>
+    <color name="a3">#ea4f73</color>
+    <color name="b1">#e5541b</color>
+    <color name="b2">#ff0</color>
+    <color name="b3">#021302</color>
+    <color name="c1">#5a5acd</color>
+    <color name="c2">#191970</color>
+    <color name="c3">#ea1408</color>
+</resources>

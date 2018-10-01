@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">velha em números</string>
+    <string name="descritivo">Some três números.
+        \n  Eles têm que FORMAR \n NÚMEROS <b>PARES OU IMPARES</b>.
+        \n<i>Sugestão: Joguar em dupla.</i>
+    </string>
+    <string name="resultado">certo?</string>
+
+
+</resources>
